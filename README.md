@@ -1,6 +1,15 @@
-### This is a LOCAL change :)
-# recipe
-Key lime pie recipe and instructions line 2 changed remotely
-Source: https://www.bbcgoodfood.com/recipes/key-lime-pie-1
-last line changed locally
-### This is a REMOTE change :O
+# Recipe Information
+### Pertaining to the recipe and the associated information of this repository
+
+![The key lime pie](recipe.png)
+
+##### This repository includes:
+- recipe ingredients
+- recipe instructions
+- a picture of the recipe
+
+Key lime pie recipe and instructions
+
+**Source:** 
+*https://www.bbcgoodfood.com/recipes/key-lime-pie-1*
+
